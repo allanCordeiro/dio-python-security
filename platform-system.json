@@ -1,0 +1,5 @@
+{
+  "Linux": "ping -c {package_qty} {host}",
+  "Darwin": "ping -c {package_qty} {host}",
+  "Windows": "ping -n {package_qty} {host}"
+}
